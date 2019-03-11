@@ -7,5 +7,6 @@ git merge master
 git add .  
 git commit -m "Commit"  
 git checkout master  
+git pull origin master  
 git merge local  
 git push origin master:master  
